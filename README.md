@@ -1,4 +1,4 @@
-###Academic Work
+###Academic Work (Right click and download, github does not preview properly)
 
 * [Deducing the power output required to operate a human powered helicopter through a scale experiment](https://github.com/sooham/Academia/blob/master/Powered_Flight_RafizSooham.pdf?raw=true)
 
